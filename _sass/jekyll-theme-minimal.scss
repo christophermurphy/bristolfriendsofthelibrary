@@ -9,13 +9,17 @@ html {
 body {
   background-color: #fff;
   background-image: url("/bristolfriendsofthelibrary/assets/images/agatha-christie-1200.jpg");
-  opacity: 0.2;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
   height:100%;
   margin: 0;
+}
+
+.body{
+  background-image: url("/bristolfriendsofthelibrary/assets/images/agatha-christie-1200.jpg");
+  opacity: 0.2;
 }
 
 h1, h2, h3, h4, h5, h6 {
